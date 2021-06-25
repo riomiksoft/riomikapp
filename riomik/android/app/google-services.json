@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221925124992",
+    "project_id": "riomiksoft-4861c",
+    "storage_bucket": "riomiksoft-4861c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221925124992:android:02965e874f73f07ec1ef65",
+        "android_client_info": {
+          "package_name": "com.example.riomikshopee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221925124992-mf6f2vr6ns4ooqcthd1o6jajhim3r2ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnMOPlYjKQLp-ZzIKunGDJ7j5sIfzMLV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221925124992-mf6f2vr6ns4ooqcthd1o6jajhim3r2ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
